@@ -1,0 +1,92 @@
+:root {
+    --hot-pink: #FF69B4;
+    --soft-pink: #FFF5F8;
+    --deep-pink: #FF1493;
+    --charcoal: #0f0f0f;
+    --glass: rgba(255, 255, 255, 0.07);
+}
+
+body {
+    background: linear-gradient(135deg, #121212 0%, #2a101d 100%);
+    color: var(--soft-pink);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* Girly Pop Header */
+.logo-area { display: flex; align-items: center; justify-content: center; gap: 10px; }
+.emoji-pop { font-size: 1.5rem; animation: bounce 2s infinite; }
+
+.glitch-text {
+    font-family: 'Syncopate', sans-serif;
+    font-size: 2.2rem;
+    color: var(--hot-pink);
+    text-shadow: 3px 3px 0px rgba(255, 255, 255, 0.1);
+    letter-spacing: -1px;
+}
+
+.glass-card {
+    background: var(--glass);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 105, 180, 0.3);
+    border-radius: 30px;
+    padding: 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.section-title { font-family: 'Pacifico', cursive; margin-bottom: 15px; color: var(--hot-pink); }
+
+/* Buttons & Inputs */
+.select-wrapper label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 1px; display: block; margin-bottom: 5px; color: var(--hot-pink); }
+
+input, select {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 105, 180, 0.2);
+    color: white;
+    padding: 12px;
+    border-radius: 15px;
+    font-size: 0.9rem;
+}
+
+.btn-stylist {
+    width: 100%;
+    padding: 16px;
+    background: linear-gradient(to right, var(--hot-pink), var(--deep-pink));
+    border: none;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+    margin-top: 15px;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(255, 105, 180, 0.4);
+    transition: 0.3s;
+}
+
+.btn-stylist:hover { transform: translateY(-3px); box-shadow: 0 0 30px var(--hot-pink); }
+
+/* The Item Cards */
+.item-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px dashed var(--hot-pink);
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.item-card:hover { background: rgba(255, 105, 180, 0.1); transform: scale(1.05); }
+
+.result-area {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    border-left: 5px solid var(--hot-pink);
+    display: none;
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }

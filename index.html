@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dress to Impress | Code Pink</title>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1 class="logo">Dress to Impress</h1>
+            <p class="subtitle">by Code Pink</p>
+        </header>
+
+        <section class="wardrobe-input">
+            <h3><span class="icon">✨</span> Fill Your Closet</h3>
+            <div class="input-group">
+                <input type="text" id="itemInput" placeholder="Add an item (e.g., Black Mini Skirt)...">
+                <select id="categorySelect">
+                    <option value="top">Top</option>
+                    <option value="bottom">Bottom</option>
+                    <option value="shoes">Shoes</option>
+                    <option value="accessory">Accessory</option>
+                </select>
+                <button onclick="addItem()" class="add-btn">Add</button>
+            </div>
+            <div id="wardrobeDisplay" class="tags-container"></div>
+        </section>
+
+        <hr>
+
+        <section class="preferences">
+            <div class="pref-card">
+                <label>Where are we going?</label>
+                <select id="occasion">
+                    <option value="College Fits">College</option>
+                    <option value="Work Wear">Work</option>
+                    <option value="Girls Night">Girls Night</option>
+                    <option value="Ethnic">Ethnic</option>
+                    <option value="A Day Out">Day Out</option>
+                    <option value="Athleisure">Gym/Athleisure</option>
+                </select>
+            </div>
+
+            <div class="pref-card">
+                <label>The Vibe</label>
+                <select id="vibe">
+                    <option value="Confident & Bold">Confident</option>
+                    <option value="Cute & Dainty">Cute</option>
+                    <option value="Minimalist">Minimal</option>
+                    <option value="Elegant">Elegant</option>
+                </select>
+            </div>
+        </section>
+
+        <button class="generate-btn" onclick="generateOutfit()">Generate My Fit ✨</button>
+
+        <div id="loader" class="loader" style="display:none;">
+            <p id="sassyQuote"></p>
+        </div>
+
+        <div id="result" class="result-card" style="display:none;">
+            <h2 id="outfitTitle"></h2>
+            <div id="outfitList"></div>
+            <p class="styling-tip" id="stylingTip"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
