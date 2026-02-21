@@ -1,53 +1,36 @@
-[Project Name] 🎯
+Dress to Impree 🎯
 Basic Details
-Team Name: [Name]
+Team Name: Code Pink
 Team Members
-Member 1: [Name] - [College]
-Member 2: [Name] - [College]
+Member 1: Sreenanda k Sahajan- Adi Shankara Institute of Engineering and Technology
+Member 2:  Esther Rose- Adi Shankara Institute of Engineering and Technology
 Hosted Project Link
-[mention your project hosted link here]
+https://code-pink-ljxg.onrender.com
 
 Project Description
-[2-3 lines about what your project does]
+Its an outfit generator, based on our personal wardrobe, occasion and mood.
 
 The Problem statement
-[What problem are you solving?]
+Choosing an outfit for an occasion is quite a hassle. With DTI this makes choosing an outfit qick and fun!
 
 The Solution
-[How are you solving it?]
+By making a web page where the user can input their closet pieces and selecting keywords for the occasion and mood the user no longer finds it challenging to pick out an outfit.
 
 Technical Details
 Technologies/Components Used
 For Software:
 
-Languages used: [e.g., JavaScript, Python, Java]
-Frameworks used: [e.g., React, Django, Spring Boot]
-Libraries used: [e.g., axios, pandas, JUnit]
-Tools used: [e.g., VS Code, Git, Docker]
+Languages used: Java Css, HTML
+Frameworks used: React
+Tools used: VS Code, GitHub
 For Hardware:
 
-Main components: [List main components]
-Specifications: [Technical specifications]
-Tools required: [List tools needed]
 Features
 List the key features of your project:
 
-Feature 1: [Description]
-Feature 2: [Description]
-Feature 3: [Description]
-Feature 4: [Description]
-Implementation
-For Software:
-Installation
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-Run
-[Run commands - e.g., npm start, python app.py]
-For Hardware:
-Components Required
-[List all components needed with specifications]
-
-Circuit Setup
-[Explain how to set up the circuit]
+Feature 1: Inputs users wardrobe
+Feature 2: Asks the occasion for an outfit
+Feature 3: Personalises the fit according to your style
 
 Project Documentation
 For Software:
@@ -58,40 +41,3 @@ Screenshots (Add at least 3)
 
 ![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
 
-Diagrams
-System Architecture:
-
-Architecture Diagram Explain your system architecture - components, data flow, tech stack interaction
-
-Application Workflow:
-
-Workflow Add caption explaining your workflow
-
-For Hardware:
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
-
-Additional Documentation
-For Web Projects with Backend:
-API Documentation
-Base URL: https://api.yourproject.com
-
-Endpoints
-GET /api/endpoint
-
-Description: [What it does]
-Parameters:
-param1 (string): [Description]
-param2 (integer): [Description]
-Response:
