@@ -9,16 +9,16 @@ Member 1: Sreenanda k Sahajan- Adi Shankara Institute of Engineering and Technol
 
 Member 2:  Esther Rose- Adi Shankara Institute of Engineering and Technology
 
-Hosted Project Link
+Hosted Project Link: 
 https://code-pink-ljxg.onrender.com
 
 Project Description:
 Its an outfit generator, based on our personal wardrobe, occasion and mood.
 
-The Problem statement
+The Problem statement: 
 Choosing an outfit for an occasion is quite a hassle. With DTI this makes choosing an outfit qick and fun!
 
-The Solution
+The Solution: 
 By making a web page where the user can input their closet pieces and selecting keywords for the occasion and mood the user no longer finds it challenging to pick out an outfit.
 
 Technical Details
