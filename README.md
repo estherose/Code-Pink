@@ -1,48 +1,110 @@
-Dress to Impress 🎯
+<p align="center">
+  <img src="img.png" alt="Project Banner" width="100%">
+</p>
 
-Basic Details:
-Team Name: Code Pink
+# 🎯 Dress To Impress (DTI)
 
-Team Members
+## 👩‍💻 Team Name
+**Code Pink**
 
-Member 1: Sreenanda k Sahajan- Adi Shankara Institute of Engineering and Technology
+---
 
-Member 2:  Esther Rose- Adi Shankara Institute of Engineering and Technology
+## 👥 Team Members
 
-Hosted Project Link: 
-https://code-pink-ljxg.onrender.com
+- **Sreenanda K Sahajan**  
+  Adi Shankara Institute of Engineering and Technology  
 
-Project Description:
-Its an outfit generator, based on our personal wardrobe, occasion and mood.
+- **Esther Rose**  
+  Adi Shankara Institute of Engineering and Technology  
 
-The Problem statement: 
-Choosing an outfit for an occasion is quite a hassle. With DTI this makes choosing an outfit qick and fun!
+---
 
-The Solution: 
-By making a web page where the user can input their closet pieces and selecting keywords for the occasion and mood the user no longer finds it challenging to pick out an outfit.
+## 🌐 Hosted Project Link
+🔗 https://code-pink-ljxg.onrender.com  
 
-Technical Details
-Technologies/Components Used
-For Software:
+---
 
-Languages used: Java Css, HTML
-Frameworks used: React
-Tools used: VS Code, GitHub
-For Hardware:
+## 📌 Project Description
 
-Features
-List the key features of your project:
+**Dress To Impress (DTI)** is an outfit generator that helps users pick the perfect outfit based on:
+- Their personal wardrobe  
+- The occasion  
+- Their mood  
 
-Feature 1: Inputs users wardrobe
-Feature 2: Asks the occasion for an outfit
-Feature 3: Personalises the fit according to your style
+---
 
-Project Documentation
-For Software:
-Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+## ❗ Problem Statement
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+Choosing an outfit for an occasion can be stressful and time-consuming.  
+Many people struggle to decide what to wear even when they have plenty of options in their wardrobe.
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+---
 
+## 💡 Solution
+
+DTI simplifies outfit selection by:
+
+- Allowing users to input their closet pieces  
+- Selecting keywords for the occasion and mood  
+- Generating personalized outfit suggestions  
+
+This makes choosing an outfit **quick, easy, and fun!**
+
+---
+
+# 🛠 Technical Details
+
+## 💻 For Software
+
+### Languages Used
+- Java  
+- CSS  
+- HTML  
+
+### Framework
+- React  
+
+### Tools
+- VS Code  
+- GitHub  
+
+---
+
+## 🖥 For Hardware
+(Not Applicable)
+
+---
+
+# ✨ Features
+
+- ✅ **Feature 1:** Users can input their wardrobe items  
+- ✅ **Feature 2:** Users can select the occasion for the outfit  
+- ✅ **Feature 3:** Personalized outfit suggestions based on mood and style  
+
+---
+
+# 📂 Project Documentation
+
+## 📸 Screenshots
+
+### Screenshot 1
+![Screenshot1](Add-screenshot-1-file-name-here.png)  
+*Caption: This screenshot shows the wardrobe input section where users add their clothing items.*
+
+---
+
+### Screenshot 2
+![Screenshot2](Add-screenshot-2-file-name-here.png)  
+*Caption: This screenshot displays the occasion and mood selection interface.*
+
+---
+
+### Screenshot 3
+![Screenshot3](Add-screenshot-3-file-name-here.png)  
+*Caption: This screenshot shows the generated personalized outfit suggestion.*
+
+---
+
+# 🚀 Conclusion
+
+Dress To Impress makes outfit planning effortless by combining personalization, simplicity, and style into one user-friendly web application.
