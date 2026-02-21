@@ -12,7 +12,7 @@ Member 2:  Esther Rose- Adi Shankara Institute of Engineering and Technology
 Hosted Project Link
 https://code-pink-ljxg.onrender.com
 
-Project Description
+Project Description:
 Its an outfit generator, based on our personal wardrobe, occasion and mood.
 
 The Problem statement
