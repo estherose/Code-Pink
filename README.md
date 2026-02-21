@@ -88,20 +88,12 @@ This makes choosing an outfit **quick, easy, and fun!**
 ## 📸 Screenshots
 
 ### Screenshot 1
-![Screenshot1](Add-screenshot-1-file-name-here.png)  
-*Caption: This screenshot shows the wardrobe input section where users add their clothing items.*
-
+![Screenshot1](Screenshot 2026-02-21 082049.png)  
 ---
 
 ### Screenshot 2
-![Screenshot2](Add-screenshot-2-file-name-here.png)  
-*Caption: This screenshot displays the occasion and mood selection interface.*
-
+![Screenshot2](Screenshot 2026-02-21 082108.png)  
 ---
-
-### Screenshot 3
-![Screenshot3](Add-screenshot-3-file-name-here.png)  
-*Caption: This screenshot shows the generated personalized outfit suggestion.*
 
 ---
 
