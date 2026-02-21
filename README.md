@@ -1,9 +1,12 @@
-Dress to Impree 🎯
-Basic Details
+Dress to Impress 🎯
+
+Basic Details:
 Team Name: Code Pink
+
 Team Members
 Member 1: Sreenanda k Sahajan- Adi Shankara Institute of Engineering and Technology
 Member 2:  Esther Rose- Adi Shankara Institute of Engineering and Technology
+
 Hosted Project Link
 https://code-pink-ljxg.onrender.com
 
