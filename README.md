@@ -88,11 +88,11 @@ This makes choosing an outfit **quick, easy, and fun!**
 ## 📸 Screenshots
 
 ### Screenshot 1
-![Screenshot1](Screenshot 2026-02-21 082049.png)  
+<img width="1888" height="931" alt="Screenshot 2026-02-21 082049" src="https://github.com/user-attachments/assets/12330722-b0b9-429f-a011-cbf3a5ad341c" />
 ---
 
 ### Screenshot 2
-![Screenshot2](Screenshot 2026-02-21 082108.png)  
+<img width="1893" height="940" alt="Screenshot 2026-02-21 082108" src="https://github.com/user-attachments/assets/847d5031-5def-4c3e-a93c-2d6ec7817d74" />
 ---
 
 ---
